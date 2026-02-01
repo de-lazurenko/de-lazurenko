@@ -14,11 +14,13 @@ I am a Data Analyst with over 5 years of experience in strategic planning and an
 ---
 
 ### 🚀 Key Projects
+* **[Eniac Discount Strategy Analysis](https://github.com/de-lazurenko/discount-strategy-analysis-python)**
+    * Analyzed **46,000+ e-commerce orders** using Python to evaluate pricing effectiveness.
+    * Identified the **20-25% discount "Sweet Spot"** to maximize revenue while protecting net margins.
+    * Modeled seasonality impacts, recommending an event-driven budget reallocation.
 * **[Brazilian Market Entry Analysis](https://github.com/de-lazurenko/eniac-brazil-market-entry-sql-tableau)**
     * Evaluated a 3-year partnership viability for Eniac using SQL and Tableau.
     * Identified critical logistics risks (14-day delivery vs 3-day target).
-* **Discount Strategy Analysis**
-    * Used Python to identify optimal pricing scenarios and maximize revenue.
 * **Global Rollout Analysis**
     * Evaluated international market performance using SQL and Tableau.
 
