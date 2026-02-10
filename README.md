@@ -19,10 +19,13 @@ I am a Data Analyst with over 5 years of experience in strategic planning and an
     * Identified the **20-25% discount "Sweet Spot"** to maximize revenue while protecting net margins.
     * Modeled seasonality impacts, recommending an event-driven budget reallocation.
 * **[Brazilian Market Entry Analysis](https://github.com/de-lazurenko/eniac-brazil-market-entry-sql-tableau)**
-    * Evaluated a 3-year partnership viability for Eniac using SQL and Tableau.
-    * Identified critical logistics risks (14-day delivery vs 3-day target).
-* **Global Rollout Analysis**
-    * Evaluated international market performance using SQL and Tableau.
+    * Evaluated 3-year partnership viability for Brazilian market expansion using SQL and Tableau.
+    * Identified critical logistics gaps (14-day avg. delivery vs. 3-day target) and a low AOV (154 BRL) inconsistent with premium positioning.
+    * Advised against the deal to safeguard Eniac’s "fast delivery" brand promise and profit margins.
+* **[A/B/n Testing: UX Hypothesis Analysis](https://github.com/de-lazurenko/abn-testing-ux-hypothesis)**
+    * Conducted a 14-day A/B/n experiment to optimize button CTR, evaluating visual features and CTA text.
+    * Performed **Chi-Square testing with Bonferroni correction** to identify statistically significant winners.
+    * Recommended retaining baseline variations after identifying that observed lifts failed to meet the **20% MDE threshold**.
 
 ---
 
