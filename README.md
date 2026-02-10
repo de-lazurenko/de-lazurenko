@@ -6,7 +6,7 @@ I am a Data Analyst with over 5 years of experience in strategic planning and an
 ---
 
 ### 🛠️ Technical Stack
-* **Languages:** SQL (MySQL, PostgreSQL, ClickHouse), Python (Pandas, NumPy, Matplotlib, Seaborn).
+* **Languages:** SQL (MySQL, PostgreSQL, ClickHouse), Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn).
 * **Data Visualization:** Tableau, Power BI, Cognos.
 * **Methods:** Statistical Analysis, A/B testing, ETL, Data Storytelling.
 * **Tools:** Git/GitHub, Azure, MS Excel (Advanced).
