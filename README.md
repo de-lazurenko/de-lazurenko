@@ -1,7 +1,7 @@
 # Hi, I'm Denis Lazurenko 👋
 ### Data Analyst | Strategic Marketing & Business Growth Background
 
-I am a Data Analyst with over 5 years of experience in strategic planning and analytics for Tier-1 brands. Currently, I am leveraging my background in marketing strategy to deliver data-driven business insights through SQL, Python, and Tableau.
+I am a Data Analyst with a 5-year background in marketing strategy and data-driven decision-making, now fully focused on analytics. Recently completed an intensive Data Analytics program at WBS Coding School, building hands-on skills in SQL, Python, and Tableau. Brings a rare combination of technical skills and deep business context, able to not only analyse data, but interpret it through the lens of real commercial impact. Recognised for analytical work at the Tagline advertising festival.
 
 ---
 
