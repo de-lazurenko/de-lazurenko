@@ -9,7 +9,7 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 * **Languages:** SQL (MySQL, PostgreSQL, ClickHouse), Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn).
 * **Data Visualization:** Tableau, Power BI, Looker Studio, Cognos.
 * **Methods:** Statistical Analysis, A/B testing, ETL, Data Storytelling.
-* **Tools:** Git/GitHub, Azure, BigQuery, MS Excel (Advanced).
+* **Tools:** Git/GitHub, Azure, BigQuery, MS Excel & Power Point (Advanced).
 
 ---
 
