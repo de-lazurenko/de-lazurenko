@@ -22,7 +22,7 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
     * Evaluated 3-year partnership viability for Brazilian market expansion using SQL and Tableau.
     * Identified critical logistics gaps (14-day avg. delivery vs. 3-day target) and a low AOV (154 BRL) inconsistent with premium positioning.
     * Advised against the deal to safeguard Eniac’s "fast delivery" brand promise and profit margins.
-* **[A/B/n Testing: UX Hypothesis Analysis (Pandas + SciPy)](https://github.com/de-lazurenko/abn-testing-ux-hypothesis)**
+* **[A/B/n Testing: UX Hypothesis Analysis (Pandas + SciPy)](https://github.com/de-lazurenko/abn-testing-ux-hypothesis-pandas-scipy)**
     * Conducted a 14-day A/B/n experiment to optimize button CTR, evaluating visual features and CTA text.
     * Performed **Chi-Square testing with Bonferroni correction** to identify statistically significant winners.
     * Recommended retaining baseline variations after identifying that observed lifts failed to meet the **20% MDE threshold**.
