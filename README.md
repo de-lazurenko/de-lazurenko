@@ -26,7 +26,7 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
     * Conducted a 14-day A/B/n experiment to optimize button CTR, evaluating visual features and CTA text.
     * Performed **Chi-Square testing with Bonferroni correction** to identify statistically significant winners.
     * Recommended retaining baseline variations after identifying that observed lifts failed to meet the **20% MDE threshold**.
-* **[Dashboard: Sales & Channel Performance (BigQuery + SQL + Looker Studio)](https://github.com/de-lazurenko/dashboard-sales-performance-bigquery-sql-looker-studio)**
+* **[Dashboard: Sales & Channel Performance analysis (BigQuery + SQL + Looker Studio)](https://github.com/de-lazurenko/dashboard-sales-performance-bigquery-sql-looker-studio)**
     * Analyzed 150,000+ retail transactions across 24 markets to evaluate sales performance and channel efficiency.
     * Identified rapid growth of web adoption (26% → 87%) as a key driver of volume increase alongside declining average price.
     * Revealed a trade-off between volume and pricing, with web channel driving the highest quantity but lower average order value.
