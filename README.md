@@ -15,7 +15,7 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 
 ### 🚀 Key Projects
 
-* **[Predict Customer Churn — Kaggle Competition EDA (Python + Pandas + Seaborn)](https://github.com/de-lazurenko/telco-churn-kaggle-s6e3)** ⭐ *Latest*
+* **[Predict Customer Churn — Kaggle Competition EDA (Python + Pandas + Seaborn)](https://github.com/de-lazurenko/kaggle-playground-eda-churn-prediction)** ⭐ *Latest*
     * Competed in Kaggle Playground Series S6E3, finishing in the **top 4%** on the private leaderboard (score: 0.91822).
     * Conducted hypothesis-driven EDA on 100,000+ telecom records, segmenting customers by age, family status, contract type, and tenure.
     * Discovered that senior citizens churn at **2.6x the rate** of younger customers and month-to-month contracts drive a **61% churn rate** vs. under 5% on two-year plans.
