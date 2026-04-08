@@ -14,6 +14,13 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 ---
 
 ### 🚀 Key Projects
+
+* **[Predict Customer Churn EDA analysis — Kaggle Competition (Pandas + SeaBorn)](https://github.com/de-lazurenko/telco-churn-kaggle-s6e3)** ⭐ *Latest*
+    * Competed in Kaggle Playground Series S6E3, achieving a private leaderboard score of **0.91822** (top result).
+    * Conducted end-to-end EDA: identified senior citizens churning at **2.6x the rate** of younger customers and month-to-month contracts driving **61% churn rate** vs. under 5% on two-year plans.
+    * Engineered features from the original IBM Telco dataset (churn probabilities, n-gram combinations, distribution distance) — the single biggest score jump of **+0.004**.
+    * Built a multi-seed ensemble (3 seeds × 3 models) with Optuna hyperparameter tuning across XGBoost, LightGBM, and CatBoost.
+
 * **[Eniac Discount Strategy Analysis (Pandas + SeaBorn)](https://github.com/de-lazurenko/discount-strategy-analysis-python)**
     * Analyzed **46,000+ e-commerce orders** using Python to evaluate pricing effectiveness.
     * Identified the **20-25% discount "Sweet Spot"** to maximize revenue while protecting net margins.
