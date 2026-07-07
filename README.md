@@ -15,7 +15,12 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 
 ### 🚀 Key Projects
 
-* **[Predict Customer Churn — Kaggle Competition EDA (Python + Pandas + Seaborn)](https://github.com/de-lazurenko/kaggle-playground-eda-churn-prediction)** ⭐ *Latest*
+* **[Marketing Measurement Triangulation: MMM, MTA & Incrementality Testing (Python + Streamlit)](https://github.com/de-lazurenko/marketing_measurement_triangulation)** ⭐ *Latest* - *In Progress*
+    * Validating three marketing attribution methods — MTA, MMM, and Incrementality Testing — against a synthetic dataset with predefined ground truth to quantify where each method over- or underestimates real causal impact.
+    * Applying Markov chain attribution, Ridge regression with adstock/saturation transformations, and geo-based diff-in-diff analysis across 5 ad channels.
+    * Delivering a practical method-selection framework via interactive Streamlit dashboard.
+
+* **[Predict Customer Churn — Kaggle Competition EDA (Python + Pandas + Seaborn)](https://github.com/de-lazurenko/kaggle-playground-eda-churn-prediction)**
     * Competed in Kaggle Playground Series S6E3, finishing in the **top 4%** on the private leaderboard (score: 0.91822).
     * Conducted hypothesis-driven EDA on 100,000+ telecom records, segmenting customers by age, family status, contract type, and tenure.
     * Discovered that senior citizens churn at **2.6x the rate** of younger customers and month-to-month contracts drive a **61% churn rate** vs. under 5% on two-year plans.
