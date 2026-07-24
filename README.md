@@ -15,7 +15,7 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 
 ### 🚀 Key Projects
 
-* **[Marketing Measurement Triangulation: MMM, MTA & Incrementality Testing (Python + Streamlit)](https://github.com/de-lazurenko/marketing_measurement_triangulation)** ⭐ *Latest* - *In Progress*
+* **[Marketing Measurement Triangulation: MMM, MTA & Incrementality Testing (Python + Streamlit)](https://github.com/de-lazurenko/marketing_measurement_triangulation)** ⭐ *Latest*
     * Validating three marketing attribution methods — MTA, MMM, and Incrementality Testing — against a synthetic dataset with predefined ground truth to quantify where each method over- or underestimates real causal impact.
     * Applying Markov chain attribution, Ridge regression with adstock/saturation transformations, and geo-based diff-in-diff analysis across 5 ad channels.
     * Delivering a practical method-selection framework via interactive Streamlit dashboard.
