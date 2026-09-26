@@ -15,32 +15,32 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 
 ### 🚀 Key Projects
 
-* **[Marketing Measurement Triangulation: MMM, MTA & Incrementality Testing (Python + Streamlit)](https://github.com/de-lazurenko/marketing_measurement_triangulation)** ⭐ *Latest*
+* **[Kaggle Playground Series — Solutions & Experiments (Python)](https://github.com/de-lazurenko/kaggle-competitions)** ⭐ *Latest*
+    * A collection of end-to-end competition solutions: EDA, feature engineering, and ML modeling across multiple Kaggle Playground Series rounds.
+    * **S6E4 — Irrigation Need Prediction** (Multiclass, Balanced Accuracy): finished **29th out of 4,315 teams — Top 0.7%**. Led EDA and feature engineering; co-developed threshold optimization logic for imbalanced classification. Stack: XGBoost + RealMLP stacking.
+    * **S6E9 — EV Purchase Prediction** (Binary, ROC-AUC): score 0.94592. Built nested target encoding pipeline with LightGBM and Optuna.
+    * **S6E3 — Customer Churn Prediction** (Binary, ROC-AUC): finished **Top 4% out of 4,142 teams**, score 0.91822. Hypothesis-driven EDA on 600k+ telecom records; engineered features produced the largest single score jump (+0.004 AUC).
+
+* **[Marketing Measurement Triangulation: MMM, MTA & Incrementality Testing (Python + Streamlit)](https://github.com/de-lazurenko/marketing_measurement_triangulation)**
     * Validating three marketing attribution methods — MTA, MMM, and Incrementality Testing — against a synthetic dataset with predefined ground truth to quantify where each method over- or underestimates real causal impact.
     * Applying Markov chain attribution, Ridge regression with adstock/saturation transformations, and geo-based diff-in-diff analysis across 5 ad channels.
     * Delivering a practical method-selection framework via interactive Streamlit dashboard.
- 
+
 * **[A/B/n Testing: UX Hypothesis Analysis (Pandas + SciPy)](https://github.com/de-lazurenko/abn-testing-ux-hypothesis-pandas-scipy)**
     * Conducted a 14-day A/B/n experiment to optimize button CTR, evaluating visual features and CTA text.
     * Performed **Chi-Square testing with Bonferroni correction** to identify statistically significant winners.
     * Recommended retaining baseline variations after identifying that observed lifts failed to meet the **20% MDE threshold**.
 
-* **[Predict Customer Churn — Kaggle Competition EDA (Python + Pandas + Seaborn)](https://github.com/de-lazurenko/kaggle-playground-eda-churn-prediction)**
-    * Competed in Kaggle Playground Series S6E3, finishing in the **top 4%** on the private leaderboard (score: 0.91822).
-    * Conducted hypothesis-driven EDA on 100,000+ telecom records, segmenting customers by age, family status, contract type, and tenure.
-    * Discovered that senior citizens churn at **2.6x the rate** of younger customers and month-to-month contracts drive a **61% churn rate** vs. under 5% on two-year plans.
-    * Translated EDA findings directly into engineered features — including `family_level` and `tenure_group` — which produced the **largest single score jump** in the modeling pipeline (+0.004 AUC).
-
 * **[Eniac Discount Strategy Analysis (Pandas + SeaBorn)](https://github.com/de-lazurenko/discount-strategy-analysis-python)**
     * Analyzed **46,000+ e-commerce orders** using Python to evaluate pricing effectiveness.
     * Identified the **20-25% discount "Sweet Spot"** to maximize revenue while protecting net margins.
     * Modeled seasonality impacts, recommending an event-driven budget reallocation.
-      
+
 * **[Brazilian Market Entry Analysis (SQL + Tableau)](https://github.com/de-lazurenko/eniac-brazil-market-entry-sql-tableau)**
     * Evaluated 3-year partnership viability for Brazilian market expansion using SQL and Tableau.
     * Identified critical logistics gaps (14-day avg. delivery vs. 3-day target) and a low AOV (154 BRL) inconsistent with premium positioning.
-    * Advised against the deal to safeguard Eniac’s "fast delivery" brand promise and profit margins.
-      
+    * Advised against the deal to safeguard Eniac's "fast delivery" brand promise and profit margins.
+
 * **[Dashboard: Sales & Channel Performance analysis (BigQuery + SQL + Looker Studio)](https://github.com/de-lazurenko/dashboard-sales-performance-bigquery-sql-looker-studio)**
     * Analyzed 150,000+ retail transactions across 24 markets to evaluate sales performance and channel efficiency.
     * Identified rapid growth of web adoption (26% → 87%) as a key driver of volume increase alongside declining average price.
