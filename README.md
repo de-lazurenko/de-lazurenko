@@ -16,10 +16,9 @@ I am a Data Analyst with a 5-year background in marketing strategy and data-driv
 ### 🚀 Key Projects
 
 * **[Kaggle Playground Series — Solutions & Experiments (Python)](https://github.com/de-lazurenko/kaggle-competitions)** ⭐ *Latest*
-    * A collection of end-to-end competition solutions: EDA, feature engineering, and ML modeling across multiple Kaggle Playground Series rounds:
-    * **S6E4 — Irrigation Need Prediction** (Multiclass, Balanced Accuracy): finished **29th out of 4,315 teams — Top 0.7%**. Led EDA and feature engineering; co-developed threshold optimization logic for imbalanced classification. Stack: XGBoost + RealMLP stacking.
-    * **S6E9 — EV Purchase Prediction** (Binary, ROC-AUC): score 0.94592. Built nested target encoding pipeline with LightGBM and Optuna.
-    * **S6E3 — Customer Churn Prediction** (Binary, ROC-AUC): finished **Top 4% out of 4,142 teams**, score 0.91822. Hypothesis-driven EDA on 600k+ telecom records; engineered features produced the largest single score jump (+0.004 AUC).
+    * End-to-end solutions for tabular Kaggle competitions: hypothesis-driven EDA, feature engineering tested against a fixed cross-validation baseline, and modelling with gradient boosting, neural networks and stacked ensembles.
+    * Focus on features models cannot derive from a single row (frequency and in-fold target encoding, group profiles, original-data signals) and on leak-free validation with nested CV.
+    * **Goal:** a repeatable, documented workflow for tabular problems, with practice in data-thinking and feature engineering and gradual depth in ML fundamentals.
 
 * **[Marketing Measurement Triangulation: MMM, MTA & Incrementality Testing (Python + Streamlit)](https://github.com/de-lazurenko/marketing_measurement_triangulation)**
     * Validating three marketing attribution methods — MTA, MMM, and Incrementality Testing — against a synthetic dataset with predefined ground truth to quantify where each method over- or underestimates real causal impact.
